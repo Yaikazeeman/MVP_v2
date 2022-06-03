@@ -133,6 +133,10 @@ Fonts
     background:url(../img/loader.gif) center no-repeat #ffffff;
 }
 
+.container-sizing{
+    height: 75vh !important;
+}
+
 /* ==========================================================================
 General Setting
 ========================================================================== */
@@ -163,7 +167,7 @@ h3 {font-size: 25px}
 h4 { font-size: 16px;}
 p {
     position: relative;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
     line-height: 23px;
     -webkit-transition: .2s ease-in;
     -moz-transition: .2s ease-in;
@@ -606,7 +610,7 @@ html body .br-gary{
 	border-color:#e2e5e8 !important;
 }
 html body .br-default{
-	border-color:#283447 !important;#e2e5e8
+	border-color:#283447 !important;
 }
 /*------------ Global Settings: Status BG Style --------------*/
 html body .bg-online{
