@@ -152,7 +152,7 @@ Personalization by flyby team
 
 .banner-pilot div{
     min-height:100%;
-    background:url(/_html/assets/img/banner-company.jpg) rgba(31, 18, 88, 0.6);
+    background:url(../img/banner-company.jpg) rgba(31, 18, 88, 0.6);
     background-size:cover;
     background-blend-mode: multiply;
     background-repeat: no-repeat;
@@ -164,7 +164,7 @@ Personalization by flyby team
 
 .banner-company div{
     min-height:100%;
-    background:url(/_html/assets/img/banner-pilot2.jpg) rgba(57, 95, 171, 0.6);
+    background:url(../img/banner-pilot2.jpg) rgba(57, 95, 171, 0.6);
     background-size:cover;
     background-blend-mode: multiply;
     background-repeat: no-repeat;
